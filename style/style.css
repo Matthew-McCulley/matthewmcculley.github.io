@@ -1,0 +1,95 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+}
+
+body{
+    width: 90%;
+    margin: 0 auto;
+}
+
+li{
+    display:inline;
+    margin:0.5em;
+}
+
+.row1,.row2,.row3{
+    border:0.05em solid #000;
+    border-left-color:white;
+    width:40em;
+    height:10em;
+    margin:20px auto;
+    border-radius:25em 25em;
+    -moz-border-radius: 25em 25em;
+    -webkit-border-radius: 25em 25em;
+}
+
+h3{
+    margin: auto
+}
+
+legend{
+    text-align:left;
+    font-size:2em;
+    font-family: sans-serif;
+}
+
+fieldset#contact{
+    border: 0.0625 solid;
+    border-radius: 0.625em;
+    padding: 1em 2em;
+
+    margin:20px auto;
+    text-align: center;
+}
+
+fieldset{
+    border-radius:0.625em;
+}
+
+input,textarea {
+    padding: 0.3125em;
+    width: 17.5em;
+    margin-bottom: 1.25em;
+    display:block;
+    text-align:left;
+}
+
+textarea{
+    width:40em;
+    height:20em;
+    margin:auto;
+}
+
+input{
+    margin:auto;
+}
+
+img{
+    border-top-right-radius: 0.625em;
+    border-bottom-right-radius: 0.625em;
+    border-top-left-radius: 25%;
+    border-bottom-left-radius: 25%;
+    float:left;
+}
+
+
+h6{
+    float:right;
+    text-align:left;
+}
+
+p{
+    text-align:left;
+    margin-left: 340px;
+    width:280px;
+}
+
+input,textarea{
+    border-radius: 0.625em;
+}
+
+
+
+
+
